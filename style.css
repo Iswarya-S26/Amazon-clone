@@ -150,18 +150,29 @@ nav ul li:hover {
   padding: 20px 18px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
+.categories .combo > h3 {
+  margin: 0 0 5px 18px;
+}
 .categories .combo .products {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
+.categories .combo .products .product-img {
+  width: 150px;
+}
+.categories .combo .products .product-img img {
+  object-fit: cover;
+  width: 100%;
+}
 .categories .combo .products p {
   height: 40px;
 }
 
-.test {
-  height: 300px;
-  width: 300px;
-  margin: 50px auto;
+@media (min-width: 576px) {
+  .categories .combo .products {
+    justify-content: space-around;
+  }
 }
