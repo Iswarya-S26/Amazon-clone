@@ -104,3 +104,34 @@ nav ul li {
 nav ul li:hover {
   border: 1px solid #ccc;
 }
+
+/*******BANNER********/
+
+.banner {
+}
+.banner img {
+  /* display: block; */
+  width: 100%;
+  object-fit: cover;
+}
+
+/*sm image*/
+@media (min-width: 0px) {
+  .banner .img-sm {
+    display: block;
+    width: 100%;
+  }
+  .banner .img-lg {
+    display: none;
+  }
+}
+/*LG image*/
+
+@media (min-width: 992px) {
+  .banner .img-sm {
+    display: none;
+  }
+  .banner .img-lg {
+    display: block;
+  }
+}
