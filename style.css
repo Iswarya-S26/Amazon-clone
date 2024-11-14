@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e3e6e6;
+}
+
+/*NAV BAR*/
+.nav {
+  background-color: #232b21;
+  position: sticky;
+  top: 0;
+}
+
+.nav .row div {
+  height: 50px;
+}
+.nav .brand {
+  display: flex;
+  justify-content: center;
+}
+.nav img {
+  height: 90%;
+  object-fit: cover;
+}
+
+.nav .search-group {
+  border: 1px solid #f9f9f9;
+  border-radius: 3px;
+  display: flex;
+}
+.nav .search-group div {
+  display: inline-block;
+  height: 100%;
+}
+.nav .search-group div:first-child {
+  background-color: #d4d4d4;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+  cursor: pointer;
+}
+.nav .search-group div:first-child:hover {
+  background-color: #ada8a8;
+}
+.nav .search-group div:nth-child(2) {
+  flex: 1;
+}
+.nav .search-group div:nth-child(2) input {
+  width: 100%;
+  height: 100%;
+  outline: none;
+  border: none;
+  font-size: 16px;
+}
+.nav .search-group div:last-child {
+  width: 50px;
+  background-color: #efb05d;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.nav .search-group div:last-child:hover {
+  background-color: #f3a847;
+}
+
+.nav .cart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 23px;
+  font-weight: 600;
+  color: #fff;
+}
+.nav .cart span {
+  cursor: pointer;
+}
