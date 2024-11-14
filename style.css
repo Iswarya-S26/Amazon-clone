@@ -80,3 +80,27 @@ body {
 .nav .cart span {
   cursor: pointer;
 }
+
+/*SUB NAVBAR*/
+
+nav {
+  background-color: #232f3e;
+  width: 100%;
+}
+nav ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+nav ul li {
+  height: 50px;
+  line-height: 50px;
+  list-style-type: none;
+  color: #fff;
+  padding: 0 20px;
+  cursor: pointer;
+  border: 1px solid #232f3e;
+  border-radius: 2px;
+}
+nav ul li:hover {
+  border: 1px solid #ccc;
+}
