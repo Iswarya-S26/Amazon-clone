@@ -2,13 +2,14 @@
 
 An Amazon-inspired e-commerce webpage created as part of a frontend development practice project. The webpage is responsive and showcases a visually appealing layout with a navbar, banner, and product sections styled using Bootstrap 5 and custom CSS.
 
-## Features
+| **Feature**               | **Description**                                                                 |
+|---------------------------|---------------------------------------------------------------------------------|
+| **Responsive Design**     | Ensures compatibility across different screen sizes using Bootstrap and media queries. |
+| **Interactive Navbar**    | Includes a logo, search bar, and cart section with hover effects.                |
+| **Dynamic Sub-navbar**    | Highlights categories like Fresh, Best Sellers, and Today's Deals.              |
+| **Banners**               | Responsive banners switch between images for different screen sizes.            |
+| **Product Sections**      | Categorized products with attractive visuals and descriptions.                  |
 
-- **Responsive Design:** Ensures compatibility across different screen sizes using Bootstrap and media queries.
-- **Interactive Navbar:** Includes a logo, search bar, and cart section with hover effects.
-- **Dynamic Sub-navbar:** Highlights categories like Fresh, Best Sellers, and Today's Deals.
-- **Banners:** Responsive banners switch between images for different screen sizes.
-- **Product Sections:** Categorized products with attractive visuals and descriptions.
 
 ## Technologies Used
 
