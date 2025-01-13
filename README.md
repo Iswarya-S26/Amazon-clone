@@ -48,17 +48,16 @@ Amazon-Clone/
 ## Screenshots
 
 ### Desktop View
-![Desktop View](images/desktop-view.png)
+<img src="images/desktop-view.png" alt="Desktop View" style="height: 300px; width: auto;">
+
 
 ### Mobile View
-![Mobile View](images/mobile-view.gif)
+<img src="images/mobile-view.gif" alt="Mobile View" style="height: 500px; width: auto;">
+
 
 ## Live Demo
-[Live Demo Link](https://iswarya-s26.github.io/Amazon-clone/) *(Replace with your deployed URL)*
+[Live Demo Link](https://iswarya-s26.github.io/Amazon-clone/) 
 
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this project as per the terms of the license.
 
 ---
 
