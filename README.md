@@ -27,6 +27,8 @@ Amazon-Clone/
 │   ├── logo1.png
 │   ├── banner.png
 │   ├── bannerMd.png
+│   ├── desktop-view.png
+│   ├── mobile-view.png
 │   └── products/      # Product images
 ├── README.md          # Project documentation
 ```
