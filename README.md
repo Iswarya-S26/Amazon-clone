@@ -62,4 +62,4 @@ Amazon-Clone/
 
 ---
 
-Created with ❤️ by [Iswarya Sundarrajan](https://github.com/your-username)
+Created with ❤️ by [Iswarya Sundarrajan](https://www.linkedin.com/in/iswarya26/)
