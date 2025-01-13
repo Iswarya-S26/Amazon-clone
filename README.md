@@ -52,7 +52,7 @@ Amazon-Clone/
 ![Mobile View](images/mobile-view.png)
 
 ## Live Demo
-[Live Demo Link](#) *(Replace with your deployed URL)*
+[Live Demo Link](https://iswarya-s26.github.io/Amazon-clone/) *(Replace with your deployed URL)*
 
 ## License
 
